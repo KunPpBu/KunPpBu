@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KunPpBu
-- 👀 I’m interested in ML, DRL, and NLP
+- 👀 My research interests include ML, DRL, and NLP
 - 🌱 I’m currently learning DRL in NLP
 - 💞️ I’m looking to collaborate on statistical reinforcement learning, bayesian statistical analysis, etc. 
 - 📫 kunbu@usf.edu
